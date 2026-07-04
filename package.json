@@ -1,0 +1,12 @@
+{
+  "name": "xiaogege-ip-v2",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch-data.mjs",
+    "validate": "node scripts/validate.mjs",
+    "serve": "python3 -m http.server 8090",
+    "start": "python3 -m http.server 8090"
+  }
+}

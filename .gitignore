@@ -1,0 +1,4 @@
+.DS_Store
+data/
+verify-evidence/
+node_modules/

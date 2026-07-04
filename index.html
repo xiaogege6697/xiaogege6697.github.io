@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#f3f0e8">
+  <title>xiaogege6697 — 智能系统构筑者</title>
+  <meta name="description" content="把复杂智能系统做得可执行、可沉淀、可验收。xiaogege6697 的开源项目与实践。">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='8' fill='%23161714'/%3E%3Ctext x='32' y='40' text-anchor='middle' font-size='22' font-family='monospace' fill='%23f3f0e8'%3EXG%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&family=Ma+Shan+Zheng&family=Noto+Sans+SC:wght@400;500;600;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles.css">
+  <script src="assets/data.js" defer></script>
+  <script src="assets/app.js" defer></script>
+</head>
+<body>
+  <div class="cursor-glow" aria-hidden="true"></div>
+  <header class="topbar">
+    <a class="identity" href="#top" aria-label="返回顶部">
+      <span class="identity__mark">XG</span>
+      <span><b>xiaogege6697</b><small>Independent Builder</small></span>
+    </a>
+    <nav aria-label="主导航">
+      <a href="#system">系统</a><a href="#projects">项目</a>
+      <a class="github-link" href="https://github.com/xiaogege6697" target="_blank" rel="noopener">GitHub ↗</a>
+    </nav>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <div class="hero__copy">
+        <p class="kicker"><span></span> OPEN SOURCE / AI SYSTEMS / 2026</p>
+        <h1>让 AI 不只会回答，<br><em>而是真正把事做完。</em></h1>
+        <p class="hero__lead">我构建多模型协作、长期记忆与知识蒸馏系统。目标不是堆叠更多 Agent，而是用更少的协调成本，让复杂任务得到可验证的结果。</p>
+        <div class="hero__actions">
+          <a class="button button--dark" href="#projects">探索项目 <span>↓</span></a>
+          <a class="button button--line" href="https://github.com/xiaogege6697" target="_blank" rel="noopener">查看源码 <span>↗</span></a>
+        </div>
+      </div>
+
+      <aside class="manifest-card" aria-label="构建宣言">
+        <div class="manifest-card__head"><span>BUILDER.MANIFEST</span><i></i><span>LIVE</span></div>
+        <div class="manifest-card__orbit" aria-hidden="true">
+          <div class="orbit orbit--one"></div><div class="orbit orbit--two"></div>
+          <div class="core"><span>目标</span><b>DONE</b></div>
+          <span class="node node--a">PLAN</span><span class="node node--b">BUILD</span><span class="node node--c">VERIFY</span>
+        </div>
+        <blockquote>“复杂，不该成为失控的借口。”</blockquote>
+        <div class="manifest-card__foot"><span>从目标出发</span><span>以验收结束</span></div>
+      </aside>
+
+      <div class="metric"><b id="repo-count">13</b><span>公开项目</span></div>
+      <div class="metric"><b>3,867</b><span>结构化知识</span></div>
+      <div class="metric"><b>20K+</b><span>内容深度蒸馏</span></div>
+      <div class="metric metric--statement"><span>当前研究</span><b>Multi-Agent<br>Goal Loop</b></div>
+    </section>
+
+    <section class="system" id="system">
+      <header class="section-head">
+        <div><p>01 / OPERATING SYSTEM</p><h2>一套系统，四种能力。</h2></div>
+        <p>这些项目并非孤立的工具。它们共同回答同一个问题：个人如何建立一套能长期进化的 AI 工作系统？</p>
+      </header>
+      <div class="capability-grid">
+        <article class="capability capability--coral"><span>01</span><i>↗</i><h3>自主执行</h3><p>把目标交给强模型，让它保留判断力；只在经济合理时调用低成本执行者。</p><small>Butler · Relay · Marvis</small></article>
+        <article class="capability capability--blue"><span>02</span><i>⌁</i><h3>长期记忆</h3><p>通过日志、知识与原始记录分层，让系统能积累经验，又不被历史绑架。</p><small>Dream · Memory · Config</small></article>
+        <article class="capability capability--lime"><span>03</span><i>✦</i><h3>认知蒸馏</h3><p>把专家隐性的判断方式提炼成可调用、可验证、可迁移的思维 Skill。</p><small>Perspective Skills</small></article>
+        <article class="capability capability--violet"><span>04</span><i>◎</i><h3>知识建模</h3><p>让碎片资料变成有来源、可检索、能持续演化的结构化知识系统。</p><small>TCM DB · SOAP Core</small></article>
+      </div>
+    </section>
+
+    <section class="projects" id="projects">
+      <header class="section-head section-head--projects">
+        <div><p>02 / OPEN SOURCE INDEX</p><h2>项目不是陈列品，<br>是正在生长的系统。</h2></div>
+        <div class="controls">
+          <label class="search"><span>⌕</span><input id="search" type="search" placeholder="搜索项目、能力或技术…" autocomplete="off"></label>
+          <select id="sort" aria-label="项目排序"><option value="updated">最近更新</option><option value="name">名称</option><option value="stars">Stars</option></select>
+        </div>
+      </header>
+      <div class="filters" id="filters" aria-label="项目分类"></div>
+      <div class="project-grid" id="project-grid"></div>
+      <div class="empty" id="empty" hidden>没有匹配项目。换一个关键词试试。</div>
+    </section>
+
+    <section class="closing">
+      <p>BUILD IN PUBLIC · THINK IN SYSTEMS</p>
+      <h2>不预测未来。<br><em>动手把它搭出来。</em></h2>
+      <a href="https://github.com/xiaogege6697" target="_blank" rel="noopener">在 GitHub 查看全部项目 <span>↗</span></a>
+    </section>
+  </main>
+
+  <footer><span>© <b id="year"></b> xiaogege6697</span><span>DESIGNED FROM THE REPOSITORIES, NOT A TEMPLATE.</span><a href="#top">返回顶部 ↑</a></footer>
+
+  <dialog id="project-dialog">
+    <button class="dialog-close" aria-label="关闭">×</button>
+    <div id="dialog-content"></div>
+  </dialog>
+</body>
+</html>

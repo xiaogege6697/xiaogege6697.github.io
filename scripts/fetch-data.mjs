@@ -1,0 +1,23 @@
+import { writeFile, mkdir } from 'node:fs/promises';
+import { join, dirname } from 'node:path';
+import { fileURLToPath } from 'node:url';
+const root = join(dirname(fileURLToPath(import.meta.url)), '..');
+const headers = { Accept:'application/vnd.github+json', 'User-Agent':'xiaogege-portfolio-v2' };
+const response = await fetch('https://api.github.com/users/xiaogege6697/repos?per_page=100&sort=updated', { headers });
+if (!response.ok) throw new Error(`GitHub API ${response.status}`);
+const raw = (await response.json()).filter(repo => !repo.fork && !repo.archived);
+const classify = repo => {
+  const text = `${repo.name} ${repo.description || ''}`.toLowerCase();
+  if (/butler|relay|marvis|openclaw/.test(text)) return 'agent';
+  if (/dream|memory|config/.test(text)) return 'memory';
+  if (/perspective|chendanqing/.test(text)) return 'distill';
+  if (/tcm|soap/.test(text)) return 'knowledge';
+  return 'infra';
+};
+const labels = { agent:'自主执行', memory:'长期记忆', distill:'认知蒸馏', knowledge:'知识建模', infra:'基础设施' };
+const repos = raw.map(repo => ({ name:repo.name, description:repo.description, url:repo.html_url, language:repo.language, stars:repo.stargazers_count, topics:repo.topics || [], updatedAt:repo.updated_at, category:classify(repo) }));
+const categories = Object.entries(labels).map(([id,label]) => ({ id,label,count:repos.filter(repo => repo.category === id).length })).filter(item => item.count);
+const payload = { generatedAt:new Date().toISOString(), categories, repos };
+await mkdir(join(root, 'assets'), { recursive:true });
+await writeFile(join(root, 'assets/data.js'), `window.__PORTFOLIO_V2__ = ${JSON.stringify(payload, null, 2)};\n`);
+console.log(`已写入 ${repos.length} 个公开仓库。`);
