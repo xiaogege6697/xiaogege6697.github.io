@@ -1,5 +1,5 @@
 window.__PORTFOLIO_V2__ = {
-  "generatedAt": "2026-07-04T01:34:54.164Z",
+  "generatedAt": "2026-07-04T02:25:08.035Z",
   "categories": [
     {
       "id": "agent",
@@ -24,10 +24,20 @@ window.__PORTFOLIO_V2__ = {
     {
       "id": "infra",
       "label": "基础设施",
-      "count": 2
+      "count": 3
     }
   ],
   "repos": [
+    {
+      "name": "maintenance-capsule-skill",
+      "description": "目标导向 + 窄腰结构的仓库维护胶囊 Skill：生成、审计、刷新，防止风格漂移与过度约束",
+      "url": "https://github.com/xiaogege6697/maintenance-capsule-skill",
+      "language": null,
+      "stars": 0,
+      "topics": [],
+      "updatedAt": "2026-07-04T02:09:55Z",
+      "category": "infra"
+    },
     {
       "name": "xiaogege6697.github.io",
       "description": "xiaogege6697 的个人 IP 网站：开源 AI 系统、长期记忆与知识蒸馏实践",
@@ -35,7 +45,7 @@ window.__PORTFOLIO_V2__ = {
       "language": "JavaScript",
       "stars": 0,
       "topics": [],
-      "updatedAt": "2026-07-04T01:34:30Z",
+      "updatedAt": "2026-07-04T02:00:29Z",
       "category": "infra"
     },
     {
