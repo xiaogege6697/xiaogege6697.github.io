@@ -1,0 +1,45 @@
+name: Sync repository data
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-repository-data
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Fetch latest repository data
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: npm run fetch
+
+      - name: Validate site data
+        run: npm run validate
+
+      - name: Commit updated data
+        run: |
+          if git diff --quiet -- assets/data.js; then
+            echo "No repository data changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/data.js
+          git commit -m "Update repository data"
+          git push

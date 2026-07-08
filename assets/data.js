@@ -1,10 +1,20 @@
 window.__PORTFOLIO_V2__ = {
-  "generatedAt": "2026-07-04T02:25:08.035Z",
+  "generatedAt": "2026-07-08T16:26:19.425Z",
   "categories": [
+    {
+      "id": "core",
+      "label": "项目守核",
+      "count": 2
+    },
     {
       "id": "agent",
       "label": "自主执行",
       "count": 3
+    },
+    {
+      "id": "content",
+      "label": "内容生产",
+      "count": 1
     },
     {
       "id": "memory",
@@ -29,14 +39,51 @@ window.__PORTFOLIO_V2__ = {
   ],
   "repos": [
     {
-      "name": "maintenance-capsule-skill",
-      "description": "目标导向 + 窄腰结构的仓库维护胶囊 Skill：生成、审计、刷新，防止风格漂移与过度约束",
-      "url": "https://github.com/xiaogege6697/maintenance-capsule-skill",
+      "name": "cognitive-path-comic-content",
+      "description": "用视觉分镜控制用户认知路径：将复杂知识转化为5—8页、每页1—2格的连续漫画图文 Skill",
+      "url": "https://github.com/xiaogege6697/cognitive-path-comic-content",
       "language": null,
       "stars": 0,
-      "topics": [],
-      "updatedAt": "2026-07-04T02:09:55Z",
+      "topics": [
+        "chinese",
+        "codex-skill",
+        "cognitive-design",
+        "content-creation",
+        "knowledge-comics",
+        "visual-storytelling"
+      ],
+      "updatedAt": "2026-07-08T16:18:56Z",
+      "category": "content"
+    },
+    {
+      "name": "xiaogege6697",
+      "description": "xiaogege6697 的 GitHub 个人主页与项目分类索引",
+      "url": "https://github.com/xiaogege6697/xiaogege6697",
+      "language": null,
+      "stars": 0,
+      "topics": [
+        "ai-agents",
+        "developer-tools",
+        "profile-readme"
+      ],
+      "updatedAt": "2026-07-08T15:54:13Z",
       "category": "infra"
+    },
+    {
+      "name": "minimal-skill",
+      "description": "用最小拓扑守住复杂项目的身份、边界、稳定契约、证据与演化能力",
+      "url": "https://github.com/xiaogege6697/minimal-skill",
+      "language": null,
+      "stars": 0,
+      "topics": [
+        "ai-agents",
+        "codex-skill",
+        "developer-tools",
+        "first-principles",
+        "project-architecture"
+      ],
+      "updatedAt": "2026-07-07T09:03:04Z",
+      "category": "core"
     },
     {
       "name": "xiaogege6697.github.io",
@@ -44,26 +91,14 @@ window.__PORTFOLIO_V2__ = {
       "url": "https://github.com/xiaogege6697/xiaogege6697.github.io",
       "language": "JavaScript",
       "stars": 0,
-      "topics": [],
-      "updatedAt": "2026-07-04T02:00:29Z",
-      "category": "infra"
-    },
-    {
-      "name": "openclaw-triple-agent",
-      "description": "🦞 一键部署三Agent架构的OpenClaw智能助手系统",
-      "url": "https://github.com/xiaogege6697/openclaw-triple-agent",
-      "language": "TypeScript",
-      "stars": 0,
       "topics": [
-        "automation",
-        "configuration",
-        "deployment",
-        "memory-system",
-        "multi-agent",
-        "openclaw"
+        "ai-projects",
+        "github-pages",
+        "personal-website",
+        "portfolio"
       ],
-      "updatedAt": "2026-07-03T15:18:39Z",
-      "category": "agent"
+      "updatedAt": "2026-07-04T15:08:20Z",
+      "category": "infra"
     },
     {
       "name": "claude-code-config",
@@ -76,12 +111,30 @@ window.__PORTFOLIO_V2__ = {
         "automation",
         "claude-code",
         "configuration",
+        "developer-tools",
         "hooks",
         "memory",
         "public-template"
       ],
-      "updatedAt": "2026-07-03T15:18:33Z",
+      "updatedAt": "2026-07-04T15:08:12Z",
       "category": "memory"
+    },
+    {
+      "name": "tcm-db",
+      "description": "倪海厦中医知识数据库 - 3,867条记录，涵盖中药/方剂/医案/经典/针灸/天纪",
+      "url": "https://github.com/xiaogege6697/tcm-db",
+      "language": "Python",
+      "stars": 1,
+      "topics": [
+        "api",
+        "chinese-medicine",
+        "knowledge-base",
+        "local-first",
+        "sqlite",
+        "traditional-chinese-medicine"
+      ],
+      "updatedAt": "2026-07-04T15:08:08Z",
+      "category": "knowledge"
     },
     {
       "name": "chendanqing-skill",
@@ -90,36 +143,16 @@ window.__PORTFOLIO_V2__ = {
       "language": null,
       "stars": 0,
       "topics": [
+        "agent-skill",
         "chinese-culture",
+        "cognitive-framework",
         "humanities",
         "knowledge-distillation",
         "perspective-skill",
         "writing-style"
       ],
-      "updatedAt": "2026-07-03T15:18:29Z",
+      "updatedAt": "2026-07-04T15:08:06Z",
       "category": "distill"
-    },
-    {
-      "name": "web-crawler-skill",
-      "description": "🕷️ Smart web crawling skill for AI agents. Anti-bot decision tree, open-source tools lookup, Camoufox/Stealth/FlareSolverr guides, production templates.",
-      "url": "https://github.com/xiaogege6697/web-crawler-skill",
-      "language": null,
-      "stars": 0,
-      "topics": [
-        "agent-skill",
-        "ai-agent",
-        "anti-detection",
-        "camoufox",
-        "claude-code",
-        "openclaw",
-        "playwright",
-        "skill",
-        "stealth",
-        "web-crawler",
-        "web-scraping"
-      ],
-      "updatedAt": "2026-07-03T15:18:26Z",
-      "category": "infra"
     },
     {
       "name": "wumanlonggang-perspective-skill",
@@ -128,8 +161,10 @@ window.__PORTFOLIO_V2__ = {
       "language": null,
       "stars": 0,
       "topics": [
+        "agent-skill",
         "ai-agent",
         "china",
+        "cognitive-framework",
         "investment",
         "investment-research",
         "knowledge-distillation",
@@ -141,7 +176,7 @@ window.__PORTFOLIO_V2__ = {
         "value-investing",
         "xueqiu"
       ],
-      "updatedAt": "2026-07-03T15:18:23Z",
+      "updatedAt": "2026-07-04T15:08:04Z",
       "category": "distill"
     },
     {
@@ -151,8 +186,10 @@ window.__PORTFOLIO_V2__ = {
       "language": null,
       "stars": 0,
       "topics": [
+        "agent-skill",
         "ai-agent",
         "china",
+        "cognitive-framework",
         "investment",
         "investment-research",
         "knowledge-distillation",
@@ -163,24 +200,123 @@ window.__PORTFOLIO_V2__ = {
         "stock-market",
         "xueqiu"
       ],
-      "updatedAt": "2026-07-03T15:18:19Z",
+      "updatedAt": "2026-07-04T15:08:02Z",
       "category": "distill"
     },
     {
-      "name": "tcm-db",
-      "description": "倪海厦中医知识数据库 - 3,867条记录，涵盖中药/方剂/医案/经典/针灸/天纪",
-      "url": "https://github.com/xiaogege6697/tcm-db",
-      "language": "Python",
-      "stars": 1,
+      "name": "web-crawler-skill",
+      "description": "🕷️ Smart web crawling skill for AI agents. Anti-bot decision tree, open-source tools lookup, Camoufox/Stealth/FlareSolverr guides, production templates.",
+      "url": "https://github.com/xiaogege6697/web-crawler-skill",
+      "language": null,
+      "stars": 0,
       "topics": [
-        "chinese-medicine",
-        "knowledge-base",
-        "local-first",
-        "sqlite",
-        "traditional-chinese-medicine"
+        "agent-skill",
+        "ai-agent",
+        "anti-bot",
+        "anti-detection",
+        "camoufox",
+        "claude-code",
+        "openclaw",
+        "playwright",
+        "skill",
+        "stealth",
+        "web-crawler",
+        "web-scraping"
       ],
-      "updatedAt": "2026-07-03T15:18:14Z",
-      "category": "knowledge"
+      "updatedAt": "2026-07-04T15:07:59Z",
+      "category": "infra"
+    },
+    {
+      "name": "dream-skill",
+      "description": "Dream 工作流 skill：文件型记忆库的睡眠整理（巩固·关联·瘦身·清理·固化回路）",
+      "url": "https://github.com/xiaogege6697/dream-skill",
+      "language": null,
+      "stars": 0,
+      "topics": [
+        "agent-skill",
+        "ai-agent",
+        "automation",
+        "knowledge-consolidation",
+        "knowledge-management",
+        "local-first",
+        "memory",
+        "memory-management",
+        "reflection"
+      ],
+      "updatedAt": "2026-07-04T15:07:57Z",
+      "category": "memory"
+    },
+    {
+      "name": "maintenance-capsule-skill",
+      "description": "目标导向 + 窄腰结构的仓库维护胶囊 Skill：生成、审计、刷新，防止风格漂移与过度约束",
+      "url": "https://github.com/xiaogege6697/maintenance-capsule-skill",
+      "language": null,
+      "stars": 0,
+      "topics": [
+        "agent-skill",
+        "context-preservation",
+        "developer-tools",
+        "repository-maintenance"
+      ],
+      "updatedAt": "2026-07-04T15:07:54Z",
+      "category": "core"
+    },
+    {
+      "name": "butler-skill",
+      "description": "Claude 自主执行与经济性模型分工 Skill：不强制拆分、派发或流程合规",
+      "url": "https://github.com/xiaogege6697/butler-skill",
+      "language": null,
+      "stars": 0,
+      "topics": [
+        "agent-infrastructure",
+        "agent-skill",
+        "ai-agent",
+        "claude-code",
+        "claude-skill",
+        "multi-model",
+        "task-delegation",
+        "workflow-automation"
+      ],
+      "updatedAt": "2026-07-04T15:07:52Z",
+      "category": "agent"
+    },
+    {
+      "name": "codex-butler-relay",
+      "description": "异步跨模型 Goal Loop：Codex 规划验收，Claude 自主执行，10→20→40→80 分钟指数退避监测",
+      "url": "https://github.com/xiaogege6697/codex-butler-relay",
+      "language": "Python",
+      "stars": 0,
+      "topics": [
+        "agent-infrastructure",
+        "ai-agent",
+        "claude",
+        "claude-code",
+        "codex",
+        "goal-loop",
+        "multi-agent",
+        "multi-model",
+        "workflow-automation"
+      ],
+      "updatedAt": "2026-07-04T15:07:50Z",
+      "category": "agent"
+    },
+    {
+      "name": "openclaw-triple-agent",
+      "description": "🦞 一键部署三Agent架构的OpenClaw智能助手系统",
+      "url": "https://github.com/xiaogege6697/openclaw-triple-agent",
+      "language": "TypeScript",
+      "stars": 0,
+      "topics": [
+        "agent-infrastructure",
+        "automation",
+        "configuration",
+        "deployment",
+        "memory-system",
+        "multi-agent",
+        "openclaw"
+      ],
+      "updatedAt": "2026-07-04T15:07:48Z",
+      "category": "agent"
     },
     {
       "name": "soap-core",
@@ -198,56 +334,6 @@ window.__PORTFOLIO_V2__ = {
       ],
       "updatedAt": "2026-07-03T15:18:12Z",
       "category": "knowledge"
-    },
-    {
-      "name": "dream-skill",
-      "description": "Dream 工作流 skill：文件型记忆库的睡眠整理（巩固·关联·瘦身·清理·固化回路）",
-      "url": "https://github.com/xiaogege6697/dream-skill",
-      "language": null,
-      "stars": 0,
-      "topics": [
-        "agent-skill",
-        "ai-agent",
-        "knowledge-management",
-        "local-first",
-        "memory",
-        "reflection"
-      ],
-      "updatedAt": "2026-07-03T15:18:08Z",
-      "category": "memory"
-    },
-    {
-      "name": "butler-skill",
-      "description": "Claude 自主执行与经济性模型分工 Skill：不强制拆分、派发或流程合规",
-      "url": "https://github.com/xiaogege6697/butler-skill",
-      "language": null,
-      "stars": 0,
-      "topics": [
-        "agent-skill",
-        "ai-agent",
-        "claude-code",
-        "multi-model",
-        "task-delegation"
-      ],
-      "updatedAt": "2026-07-03T15:18:06Z",
-      "category": "agent"
-    },
-    {
-      "name": "codex-butler-relay",
-      "description": "异步跨模型 Goal Loop：Codex 规划验收，Claude 自主执行，10→20→40→80 分钟指数退避监测",
-      "url": "https://github.com/xiaogege6697/codex-butler-relay",
-      "language": "Python",
-      "stars": 0,
-      "topics": [
-        "ai-agent",
-        "claude-code",
-        "codex",
-        "goal-loop",
-        "multi-model",
-        "workflow-automation"
-      ],
-      "updatedAt": "2026-07-03T15:18:01Z",
-      "category": "agent"
     }
   ]
 };
