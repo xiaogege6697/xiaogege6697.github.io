@@ -1,5 +1,5 @@
 window.__PORTFOLIO_V2__ = {
-  "generatedAt": "2026-07-09T01:44:34.403Z",
+  "generatedAt": "2026-07-10T01:29:04.311Z",
   "categories": [
     {
       "id": "core",
@@ -14,7 +14,7 @@ window.__PORTFOLIO_V2__ = {
     {
       "id": "content",
       "label": "内容生产",
-      "count": 1
+      "count": 2
     },
     {
       "id": "memory",
@@ -38,6 +38,31 @@ window.__PORTFOLIO_V2__ = {
     }
   ],
   "repos": [
+    {
+      "name": "xhs-native-comic-workflow",
+      "description": null,
+      "url": "https://github.com/xiaogege6697/xhs-native-comic-workflow",
+      "language": null,
+      "stars": 0,
+      "topics": [],
+      "updatedAt": "2026-07-09T08:17:55Z",
+      "category": "content"
+    },
+    {
+      "name": "xiaogege6697.github.io",
+      "description": "xiaogege6697 的个人 IP 网站：开源 AI 系统、长期记忆与知识蒸馏实践",
+      "url": "https://github.com/xiaogege6697/xiaogege6697.github.io",
+      "language": "JavaScript",
+      "stars": 0,
+      "topics": [
+        "ai-projects",
+        "github-pages",
+        "personal-website",
+        "portfolio"
+      ],
+      "updatedAt": "2026-07-09T01:44:39Z",
+      "category": "infra"
+    },
     {
       "name": "openclaw-triple-agent",
       "description": "🦞 一键部署三Agent架构的OpenClaw智能助手系统",
@@ -288,21 +313,6 @@ window.__PORTFOLIO_V2__ = {
       ],
       "updatedAt": "2026-07-08T16:35:06Z",
       "category": "core"
-    },
-    {
-      "name": "xiaogege6697.github.io",
-      "description": "xiaogege6697 的个人 IP 网站：开源 AI 系统、长期记忆与知识蒸馏实践",
-      "url": "https://github.com/xiaogege6697/xiaogege6697.github.io",
-      "language": "JavaScript",
-      "stars": 0,
-      "topics": [
-        "ai-projects",
-        "github-pages",
-        "personal-website",
-        "portfolio"
-      ],
-      "updatedAt": "2026-07-08T16:28:38Z",
-      "category": "infra"
     },
     {
       "name": "cognitive-path-comic-content",
