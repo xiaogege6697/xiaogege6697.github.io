@@ -1,5 +1,5 @@
 window.__PORTFOLIO_V2__ = {
-  "generatedAt": "2026-07-11T01:22:17.216Z",
+  "generatedAt": "2026-07-12T01:24:20.119Z",
   "categories": [
     {
       "id": "core",
@@ -39,6 +39,43 @@ window.__PORTFOLIO_V2__ = {
   ],
   "repos": [
     {
+      "name": "tcm-db",
+      "description": "倪海厦中医知识数据库 - 3,867条记录，涵盖中药/方剂/医案/经典/针灸/天纪",
+      "url": "https://github.com/xiaogege6697/tcm-db",
+      "language": "Python",
+      "stars": 2,
+      "topics": [
+        "api",
+        "chinese-medicine",
+        "knowledge-base",
+        "local-first",
+        "sqlite",
+        "traditional-chinese-medicine"
+      ],
+      "updatedAt": "2026-07-11T23:55:50Z",
+      "category": "knowledge"
+    },
+    {
+      "name": "codex-butler-relay",
+      "description": "异步跨模型 Goal Loop：Codex 规划验收，Claude 自主执行，10→20→40→80 分钟指数退避监测",
+      "url": "https://github.com/xiaogege6697/codex-butler-relay",
+      "language": "Python",
+      "stars": 0,
+      "topics": [
+        "agent-infrastructure",
+        "ai-agent",
+        "claude",
+        "claude-code",
+        "codex",
+        "goal-loop",
+        "multi-agent",
+        "multi-model",
+        "workflow-automation"
+      ],
+      "updatedAt": "2026-07-11T11:59:32Z",
+      "category": "agent"
+    },
+    {
       "name": "xiaogege6697.github.io",
       "description": "xiaogege6697 的个人 IP 网站：开源 AI 系统、长期记忆与知识蒸馏实践",
       "url": "https://github.com/xiaogege6697/xiaogege6697.github.io",
@@ -50,7 +87,7 @@ window.__PORTFOLIO_V2__ = {
         "personal-website",
         "portfolio"
       ],
-      "updatedAt": "2026-07-10T01:29:08Z",
+      "updatedAt": "2026-07-11T01:22:22Z",
       "category": "infra"
     },
     {
@@ -191,23 +228,6 @@ window.__PORTFOLIO_V2__ = {
       "category": "infra"
     },
     {
-      "name": "tcm-db",
-      "description": "倪海厦中医知识数据库 - 3,867条记录，涵盖中药/方剂/医案/经典/针灸/天纪",
-      "url": "https://github.com/xiaogege6697/tcm-db",
-      "language": "Python",
-      "stars": 1,
-      "topics": [
-        "api",
-        "chinese-medicine",
-        "knowledge-base",
-        "local-first",
-        "sqlite",
-        "traditional-chinese-medicine"
-      ],
-      "updatedAt": "2026-07-08T17:26:53Z",
-      "category": "knowledge"
-    },
-    {
       "name": "soap-core",
       "description": "SOAP-Core — 领域无关的复杂系统状态空间解释层（attractor / recurrence / EDM / training instability taxonomy）",
       "url": "https://github.com/xiaogege6697/soap-core",
@@ -277,26 +297,6 @@ window.__PORTFOLIO_V2__ = {
         "workflow-automation"
       ],
       "updatedAt": "2026-07-08T16:57:58Z",
-      "category": "agent"
-    },
-    {
-      "name": "codex-butler-relay",
-      "description": "异步跨模型 Goal Loop：Codex 规划验收，Claude 自主执行，10→20→40→80 分钟指数退避监测",
-      "url": "https://github.com/xiaogege6697/codex-butler-relay",
-      "language": "Python",
-      "stars": 0,
-      "topics": [
-        "agent-infrastructure",
-        "ai-agent",
-        "claude",
-        "claude-code",
-        "codex",
-        "goal-loop",
-        "multi-agent",
-        "multi-model",
-        "workflow-automation"
-      ],
-      "updatedAt": "2026-07-08T16:41:29Z",
       "category": "agent"
     },
     {
