@@ -1,5 +1,5 @@
 window.__PORTFOLIO_V2__ = {
-  "generatedAt": "2026-07-12T01:24:20.119Z",
+  "generatedAt": "2026-07-13T01:25:38.886Z",
   "categories": [
     {
       "id": "core",
@@ -39,21 +39,19 @@ window.__PORTFOLIO_V2__ = {
   ],
   "repos": [
     {
-      "name": "tcm-db",
-      "description": "倪海厦中医知识数据库 - 3,867条记录，涵盖中药/方剂/医案/经典/针灸/天纪",
-      "url": "https://github.com/xiaogege6697/tcm-db",
-      "language": "Python",
-      "stars": 2,
+      "name": "maintenance-capsule-skill",
+      "description": "目标导向 + 窄腰结构的仓库维护胶囊 Skill：生成、审计、刷新，防止风格漂移与过度约束",
+      "url": "https://github.com/xiaogege6697/maintenance-capsule-skill",
+      "language": null,
+      "stars": 0,
       "topics": [
-        "api",
-        "chinese-medicine",
-        "knowledge-base",
-        "local-first",
-        "sqlite",
-        "traditional-chinese-medicine"
+        "agent-skill",
+        "context-preservation",
+        "developer-tools",
+        "repository-maintenance"
       ],
-      "updatedAt": "2026-07-11T23:55:50Z",
-      "category": "knowledge"
+      "updatedAt": "2026-07-12T16:06:02Z",
+      "category": "core"
     },
     {
       "name": "codex-butler-relay",
@@ -72,7 +70,7 @@ window.__PORTFOLIO_V2__ = {
         "multi-model",
         "workflow-automation"
       ],
-      "updatedAt": "2026-07-11T11:59:32Z",
+      "updatedAt": "2026-07-12T08:41:19Z",
       "category": "agent"
     },
     {
@@ -87,8 +85,25 @@ window.__PORTFOLIO_V2__ = {
         "personal-website",
         "portfolio"
       ],
-      "updatedAt": "2026-07-11T01:22:22Z",
+      "updatedAt": "2026-07-12T01:24:24Z",
       "category": "infra"
+    },
+    {
+      "name": "tcm-db",
+      "description": "倪海厦中医知识数据库 - 3,867条记录，涵盖中药/方剂/医案/经典/针灸/天纪",
+      "url": "https://github.com/xiaogege6697/tcm-db",
+      "language": "Python",
+      "stars": 2,
+      "topics": [
+        "api",
+        "chinese-medicine",
+        "knowledge-base",
+        "local-first",
+        "sqlite",
+        "traditional-chinese-medicine"
+      ],
+      "updatedAt": "2026-07-11T23:55:50Z",
+      "category": "knowledge"
     },
     {
       "name": "xhs-native-comic-workflow",
@@ -298,21 +313,6 @@ window.__PORTFOLIO_V2__ = {
       ],
       "updatedAt": "2026-07-08T16:57:58Z",
       "category": "agent"
-    },
-    {
-      "name": "maintenance-capsule-skill",
-      "description": "目标导向 + 窄腰结构的仓库维护胶囊 Skill：生成、审计、刷新，防止风格漂移与过度约束",
-      "url": "https://github.com/xiaogege6697/maintenance-capsule-skill",
-      "language": null,
-      "stars": 0,
-      "topics": [
-        "agent-skill",
-        "context-preservation",
-        "developer-tools",
-        "repository-maintenance"
-      ],
-      "updatedAt": "2026-07-08T16:35:06Z",
-      "category": "core"
     },
     {
       "name": "cognitive-path-comic-content",
