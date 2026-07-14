@@ -1,5 +1,5 @@
 window.__PORTFOLIO_V2__ = {
-  "generatedAt": "2026-07-13T01:25:38.886Z",
+  "generatedAt": "2026-07-14T01:14:51.684Z",
   "categories": [
     {
       "id": "core",
@@ -39,6 +39,38 @@ window.__PORTFOLIO_V2__ = {
   ],
   "repos": [
     {
+      "name": "tcm-db",
+      "description": "倪海厦中医知识数据库 - 3,867条记录，涵盖中药/方剂/医案/经典/针灸/天纪",
+      "url": "https://github.com/xiaogege6697/tcm-db",
+      "language": "Python",
+      "stars": 3,
+      "topics": [
+        "api",
+        "chinese-medicine",
+        "knowledge-base",
+        "local-first",
+        "sqlite",
+        "traditional-chinese-medicine"
+      ],
+      "updatedAt": "2026-07-13T03:17:29Z",
+      "category": "knowledge"
+    },
+    {
+      "name": "xiaogege6697.github.io",
+      "description": "xiaogege6697 的个人 IP 网站：开源 AI 系统、长期记忆与知识蒸馏实践",
+      "url": "https://github.com/xiaogege6697/xiaogege6697.github.io",
+      "language": "JavaScript",
+      "stars": 0,
+      "topics": [
+        "ai-projects",
+        "github-pages",
+        "personal-website",
+        "portfolio"
+      ],
+      "updatedAt": "2026-07-13T01:25:43Z",
+      "category": "infra"
+    },
+    {
       "name": "maintenance-capsule-skill",
       "description": "目标导向 + 窄腰结构的仓库维护胶囊 Skill：生成、审计、刷新，防止风格漂移与过度约束",
       "url": "https://github.com/xiaogege6697/maintenance-capsule-skill",
@@ -72,38 +104,6 @@ window.__PORTFOLIO_V2__ = {
       ],
       "updatedAt": "2026-07-12T08:41:19Z",
       "category": "agent"
-    },
-    {
-      "name": "xiaogege6697.github.io",
-      "description": "xiaogege6697 的个人 IP 网站：开源 AI 系统、长期记忆与知识蒸馏实践",
-      "url": "https://github.com/xiaogege6697/xiaogege6697.github.io",
-      "language": "JavaScript",
-      "stars": 0,
-      "topics": [
-        "ai-projects",
-        "github-pages",
-        "personal-website",
-        "portfolio"
-      ],
-      "updatedAt": "2026-07-12T01:24:24Z",
-      "category": "infra"
-    },
-    {
-      "name": "tcm-db",
-      "description": "倪海厦中医知识数据库 - 3,867条记录，涵盖中药/方剂/医案/经典/针灸/天纪",
-      "url": "https://github.com/xiaogege6697/tcm-db",
-      "language": "Python",
-      "stars": 2,
-      "topics": [
-        "api",
-        "chinese-medicine",
-        "knowledge-base",
-        "local-first",
-        "sqlite",
-        "traditional-chinese-medicine"
-      ],
-      "updatedAt": "2026-07-11T23:55:50Z",
-      "category": "knowledge"
     },
     {
       "name": "xhs-native-comic-workflow",
