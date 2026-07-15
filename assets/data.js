@@ -1,5 +1,5 @@
 window.__PORTFOLIO_V2__ = {
-  "generatedAt": "2026-07-14T01:14:51.684Z",
+  "generatedAt": "2026-07-15T01:11:54.249Z",
   "categories": [
     {
       "id": "core",
@@ -43,7 +43,7 @@ window.__PORTFOLIO_V2__ = {
       "description": "倪海厦中医知识数据库 - 3,867条记录，涵盖中药/方剂/医案/经典/针灸/天纪",
       "url": "https://github.com/xiaogege6697/tcm-db",
       "language": "Python",
-      "stars": 3,
+      "stars": 4,
       "topics": [
         "api",
         "chinese-medicine",
@@ -52,7 +52,7 @@ window.__PORTFOLIO_V2__ = {
         "sqlite",
         "traditional-chinese-medicine"
       ],
-      "updatedAt": "2026-07-13T03:17:29Z",
+      "updatedAt": "2026-07-14T04:51:10Z",
       "category": "knowledge"
     },
     {
@@ -67,7 +67,7 @@ window.__PORTFOLIO_V2__ = {
         "personal-website",
         "portfolio"
       ],
-      "updatedAt": "2026-07-13T01:25:43Z",
+      "updatedAt": "2026-07-14T01:14:56Z",
       "category": "infra"
     },
     {
