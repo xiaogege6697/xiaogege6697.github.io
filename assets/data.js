@@ -1,5 +1,5 @@
 window.__PORTFOLIO_V2__ = {
-  "generatedAt": "2026-07-16T01:21:04.868Z",
+  "generatedAt": "2026-07-17T01:24:27.569Z",
   "categories": [
     {
       "id": "core",
@@ -34,10 +34,37 @@ window.__PORTFOLIO_V2__ = {
     {
       "id": "infra",
       "label": "基础设施",
-      "count": 3
+      "count": 4
     }
   ],
   "repos": [
+    {
+      "name": "discover-acquisition-topics",
+      "description": "从客户需求、触发场景、竞争拥挤度与服务承接出发，研究并验证高潜获客选题的 Codex Skill",
+      "url": "https://github.com/xiaogege6697/discover-acquisition-topics",
+      "language": null,
+      "stars": 0,
+      "topics": [],
+      "updatedAt": "2026-07-16T13:10:24Z",
+      "category": "infra"
+    },
+    {
+      "name": "cognitive-path-comic-content",
+      "description": "用视觉分镜控制用户认知路径：将复杂知识转化为5—8页、每页1—2格的连续漫画图文 Skill",
+      "url": "https://github.com/xiaogege6697/cognitive-path-comic-content",
+      "language": null,
+      "stars": 0,
+      "topics": [
+        "chinese",
+        "codex-skill",
+        "cognitive-design",
+        "content-creation",
+        "knowledge-comics",
+        "visual-storytelling"
+      ],
+      "updatedAt": "2026-07-16T04:36:08Z",
+      "category": "content"
+    },
     {
       "name": "xiaogege6697.github.io",
       "description": "xiaogege6697 的个人 IP 网站：开源 AI 系统、长期记忆与知识蒸馏实践",
@@ -50,7 +77,7 @@ window.__PORTFOLIO_V2__ = {
         "personal-website",
         "portfolio"
       ],
-      "updatedAt": "2026-07-15T01:11:58Z",
+      "updatedAt": "2026-07-16T01:21:09Z",
       "category": "infra"
     },
     {
@@ -313,23 +340,6 @@ window.__PORTFOLIO_V2__ = {
       ],
       "updatedAt": "2026-07-08T16:57:58Z",
       "category": "agent"
-    },
-    {
-      "name": "cognitive-path-comic-content",
-      "description": "用视觉分镜控制用户认知路径：将复杂知识转化为5—8页、每页1—2格的连续漫画图文 Skill",
-      "url": "https://github.com/xiaogege6697/cognitive-path-comic-content",
-      "language": null,
-      "stars": 0,
-      "topics": [
-        "chinese",
-        "codex-skill",
-        "cognitive-design",
-        "content-creation",
-        "knowledge-comics",
-        "visual-storytelling"
-      ],
-      "updatedAt": "2026-07-08T16:18:56Z",
-      "category": "content"
     },
     {
       "name": "xiaogege6697",
