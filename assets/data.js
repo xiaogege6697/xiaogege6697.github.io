@@ -1,5 +1,5 @@
 window.__PORTFOLIO_V2__ = {
-  "generatedAt": "2026-07-17T01:24:27.569Z",
+  "generatedAt": "2026-07-18T01:16:36.906Z",
   "categories": [
     {
       "id": "core",
@@ -39,6 +39,21 @@ window.__PORTFOLIO_V2__ = {
   ],
   "repos": [
     {
+      "name": "xiaogege6697.github.io",
+      "description": "xiaogege6697 的个人 IP 网站：开源 AI 系统、长期记忆与知识蒸馏实践",
+      "url": "https://github.com/xiaogege6697/xiaogege6697.github.io",
+      "language": "JavaScript",
+      "stars": 0,
+      "topics": [
+        "ai-projects",
+        "github-pages",
+        "personal-website",
+        "portfolio"
+      ],
+      "updatedAt": "2026-07-17T01:24:32Z",
+      "category": "infra"
+    },
+    {
       "name": "discover-acquisition-topics",
       "description": "从客户需求、触发场景、竞争拥挤度与服务承接出发，研究并验证高潜获客选题的 Codex Skill",
       "url": "https://github.com/xiaogege6697/discover-acquisition-topics",
@@ -64,21 +79,6 @@ window.__PORTFOLIO_V2__ = {
       ],
       "updatedAt": "2026-07-16T04:36:08Z",
       "category": "content"
-    },
-    {
-      "name": "xiaogege6697.github.io",
-      "description": "xiaogege6697 的个人 IP 网站：开源 AI 系统、长期记忆与知识蒸馏实践",
-      "url": "https://github.com/xiaogege6697/xiaogege6697.github.io",
-      "language": "JavaScript",
-      "stars": 0,
-      "topics": [
-        "ai-projects",
-        "github-pages",
-        "personal-website",
-        "portfolio"
-      ],
-      "updatedAt": "2026-07-16T01:21:09Z",
-      "category": "infra"
     },
     {
       "name": "tcm-db",
