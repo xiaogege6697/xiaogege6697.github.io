@@ -1,5 +1,5 @@
 window.__PORTFOLIO_V2__ = {
-  "generatedAt": "2026-07-18T01:16:36.906Z",
+  "generatedAt": "2026-07-19T01:22:17.442Z",
   "categories": [
     {
       "id": "core",
@@ -39,6 +39,22 @@ window.__PORTFOLIO_V2__ = {
   ],
   "repos": [
     {
+      "name": "minimal-skill",
+      "description": "用最小拓扑守住复杂项目的身份、边界、稳定契约、证据与演化能力",
+      "url": "https://github.com/xiaogege6697/minimal-skill",
+      "language": null,
+      "stars": 0,
+      "topics": [
+        "ai-agents",
+        "codex-skill",
+        "developer-tools",
+        "first-principles",
+        "project-architecture"
+      ],
+      "updatedAt": "2026-07-18T15:49:00Z",
+      "category": "core"
+    },
+    {
       "name": "xiaogege6697.github.io",
       "description": "xiaogege6697 的个人 IP 网站：开源 AI 系统、长期记忆与知识蒸馏实践",
       "url": "https://github.com/xiaogege6697/xiaogege6697.github.io",
@@ -50,7 +66,7 @@ window.__PORTFOLIO_V2__ = {
         "personal-website",
         "portfolio"
       ],
-      "updatedAt": "2026-07-17T01:24:32Z",
+      "updatedAt": "2026-07-18T01:16:41Z",
       "category": "infra"
     },
     {
@@ -285,22 +301,6 @@ window.__PORTFOLIO_V2__ = {
       ],
       "updatedAt": "2026-07-08T17:20:42Z",
       "category": "knowledge"
-    },
-    {
-      "name": "minimal-skill",
-      "description": "用最小拓扑守住复杂项目的身份、边界、稳定契约、证据与演化能力",
-      "url": "https://github.com/xiaogege6697/minimal-skill",
-      "language": null,
-      "stars": 0,
-      "topics": [
-        "ai-agents",
-        "codex-skill",
-        "developer-tools",
-        "first-principles",
-        "project-architecture"
-      ],
-      "updatedAt": "2026-07-08T17:13:47Z",
-      "category": "core"
     },
     {
       "name": "dream-skill",
