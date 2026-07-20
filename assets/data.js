@@ -1,5 +1,5 @@
 window.__PORTFOLIO_V2__ = {
-  "generatedAt": "2026-07-19T01:22:17.442Z",
+  "generatedAt": "2026-07-20T02:58:47.224Z",
   "categories": [
     {
       "id": "core",
@@ -39,6 +39,21 @@ window.__PORTFOLIO_V2__ = {
   ],
   "repos": [
     {
+      "name": "xiaogege6697.github.io",
+      "description": "xiaogege6697 的个人 IP 网站：开源 AI 系统、长期记忆与知识蒸馏实践",
+      "url": "https://github.com/xiaogege6697/xiaogege6697.github.io",
+      "language": "JavaScript",
+      "stars": 0,
+      "topics": [
+        "ai-projects",
+        "github-pages",
+        "personal-website",
+        "portfolio"
+      ],
+      "updatedAt": "2026-07-19T01:22:22Z",
+      "category": "infra"
+    },
+    {
       "name": "minimal-skill",
       "description": "用最小拓扑守住复杂项目的身份、边界、稳定契约、证据与演化能力",
       "url": "https://github.com/xiaogege6697/minimal-skill",
@@ -53,21 +68,6 @@ window.__PORTFOLIO_V2__ = {
       ],
       "updatedAt": "2026-07-18T15:49:00Z",
       "category": "core"
-    },
-    {
-      "name": "xiaogege6697.github.io",
-      "description": "xiaogege6697 的个人 IP 网站：开源 AI 系统、长期记忆与知识蒸馏实践",
-      "url": "https://github.com/xiaogege6697/xiaogege6697.github.io",
-      "language": "JavaScript",
-      "stars": 0,
-      "topics": [
-        "ai-projects",
-        "github-pages",
-        "personal-website",
-        "portfolio"
-      ],
-      "updatedAt": "2026-07-18T01:16:41Z",
-      "category": "infra"
     },
     {
       "name": "discover-acquisition-topics",
