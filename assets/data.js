@@ -1,5 +1,5 @@
 window.__PORTFOLIO_V2__ = {
-  "generatedAt": "2026-07-21T01:22:01.898Z",
+  "generatedAt": "2026-07-22T01:20:39.875Z",
   "categories": [
     {
       "id": "core",
@@ -39,6 +39,23 @@ window.__PORTFOLIO_V2__ = {
   ],
   "repos": [
     {
+      "name": "cognitive-path-comic-content",
+      "description": "用视觉分镜控制用户认知路径：将复杂知识转化为5—8页、每页1—2格的连续漫画图文 Skill",
+      "url": "https://github.com/xiaogege6697/cognitive-path-comic-content",
+      "language": null,
+      "stars": 1,
+      "topics": [
+        "chinese",
+        "codex-skill",
+        "cognitive-design",
+        "content-creation",
+        "knowledge-comics",
+        "visual-storytelling"
+      ],
+      "updatedAt": "2026-07-21T02:00:54Z",
+      "category": "content"
+    },
+    {
       "name": "xiaogege6697.github.io",
       "description": "xiaogege6697 的个人 IP 网站：开源 AI 系统、长期记忆与知识蒸馏实践",
       "url": "https://github.com/xiaogege6697/xiaogege6697.github.io",
@@ -50,7 +67,7 @@ window.__PORTFOLIO_V2__ = {
         "personal-website",
         "portfolio"
       ],
-      "updatedAt": "2026-07-20T02:58:52Z",
+      "updatedAt": "2026-07-21T01:22:06Z",
       "category": "infra"
     },
     {
@@ -78,23 +95,6 @@ window.__PORTFOLIO_V2__ = {
       "topics": [],
       "updatedAt": "2026-07-16T13:10:24Z",
       "category": "infra"
-    },
-    {
-      "name": "cognitive-path-comic-content",
-      "description": "用视觉分镜控制用户认知路径：将复杂知识转化为5—8页、每页1—2格的连续漫画图文 Skill",
-      "url": "https://github.com/xiaogege6697/cognitive-path-comic-content",
-      "language": null,
-      "stars": 0,
-      "topics": [
-        "chinese",
-        "codex-skill",
-        "cognitive-design",
-        "content-creation",
-        "knowledge-comics",
-        "visual-storytelling"
-      ],
-      "updatedAt": "2026-07-16T04:36:08Z",
-      "category": "content"
     },
     {
       "name": "tcm-db",
