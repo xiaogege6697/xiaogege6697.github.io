@@ -1,5 +1,5 @@
 window.__PORTFOLIO_V2__ = {
-  "generatedAt": "2026-08-15T00:31:42.750Z",
+  "generatedAt": "2026-08-16T00:32:42.552Z",
   "categories": [
     {
       "id": "core",
@@ -39,6 +39,21 @@ window.__PORTFOLIO_V2__ = {
   ],
   "repos": [
     {
+      "name": "xiaogege6697.github.io",
+      "description": "xiaogege6697 的个人 IP 网站：开源 AI 系统、长期记忆与知识蒸馏实践",
+      "url": "https://github.com/xiaogege6697/xiaogege6697.github.io",
+      "language": "JavaScript",
+      "stars": 1,
+      "topics": [
+        "ai-projects",
+        "github-pages",
+        "personal-website",
+        "portfolio"
+      ],
+      "updatedAt": "2026-08-15T04:34:43Z",
+      "category": "infra"
+    },
+    {
       "name": "cognitive-path-comic-content",
       "description": "用视觉分镜控制用户认知路径：将复杂知识转化为5—8页、每页1—2格的连续漫画图文 Skill",
       "url": "https://github.com/xiaogege6697/cognitive-path-comic-content",
@@ -54,21 +69,6 @@ window.__PORTFOLIO_V2__ = {
       ],
       "updatedAt": "2026-08-14T04:08:38Z",
       "category": "content"
-    },
-    {
-      "name": "xiaogege6697.github.io",
-      "description": "xiaogege6697 的个人 IP 网站：开源 AI 系统、长期记忆与知识蒸馏实践",
-      "url": "https://github.com/xiaogege6697/xiaogege6697.github.io",
-      "language": "JavaScript",
-      "stars": 0,
-      "topics": [
-        "ai-projects",
-        "github-pages",
-        "personal-website",
-        "portfolio"
-      ],
-      "updatedAt": "2026-08-14T00:55:12Z",
-      "category": "infra"
     },
     {
       "name": "tcm-db",
