@@ -1,5 +1,5 @@
 window.__PORTFOLIO_V2__ = {
-  "generatedAt": "2026-08-19T00:36:10.632Z",
+  "generatedAt": "2026-08-20T00:31:13.442Z",
   "categories": [
     {
       "id": "core",
@@ -39,6 +39,21 @@ window.__PORTFOLIO_V2__ = {
   ],
   "repos": [
     {
+      "name": "xiaogege6697.github.io",
+      "description": "xiaogege6697 的个人 IP 网站：开源 AI 系统、长期记忆与知识蒸馏实践",
+      "url": "https://github.com/xiaogege6697/xiaogege6697.github.io",
+      "language": "JavaScript",
+      "stars": 1,
+      "topics": [
+        "ai-projects",
+        "github-pages",
+        "personal-website",
+        "portfolio"
+      ],
+      "updatedAt": "2026-08-19T00:36:36Z",
+      "category": "infra"
+    },
+    {
       "name": "dream-skill",
       "description": "Dream 工作流 skill：文件型记忆库的睡眠整理（巩固·关联·瘦身·清理·固化回路）",
       "url": "https://github.com/xiaogege6697/dream-skill",
@@ -57,21 +72,6 @@ window.__PORTFOLIO_V2__ = {
       ],
       "updatedAt": "2026-08-18T19:09:32Z",
       "category": "memory"
-    },
-    {
-      "name": "xiaogege6697.github.io",
-      "description": "xiaogege6697 的个人 IP 网站：开源 AI 系统、长期记忆与知识蒸馏实践",
-      "url": "https://github.com/xiaogege6697/xiaogege6697.github.io",
-      "language": "JavaScript",
-      "stars": 1,
-      "topics": [
-        "ai-projects",
-        "github-pages",
-        "personal-website",
-        "portfolio"
-      ],
-      "updatedAt": "2026-08-18T00:31:44Z",
-      "category": "infra"
     },
     {
       "name": "cognitive-path-comic-content",
