@@ -1,5 +1,5 @@
 window.__PORTFOLIO_V2__ = {
-  "generatedAt": "2026-08-27T05:25:17.734Z",
+  "generatedAt": "2026-08-28T07:21:47.351Z",
   "categories": [
     {
       "id": "core",
@@ -24,7 +24,7 @@ window.__PORTFOLIO_V2__ = {
     {
       "id": "distill",
       "label": "认知蒸馏",
-      "count": 3
+      "count": 4
     },
     {
       "id": "knowledge",
@@ -52,8 +52,18 @@ window.__PORTFOLIO_V2__ = {
         "sqlite",
         "traditional-chinese-medicine"
       ],
-      "updatedAt": "2026-08-27T04:47:24Z",
+      "updatedAt": "2026-08-28T05:01:48Z",
       "category": "knowledge"
+    },
+    {
+      "name": "nihaixia-perspective-skill",
+      "description": "倪海厦中医思维分身 Skill：三层架构（易理→医理转译→临床启发式）+ 原文页码级溯源，事实层对接 tcm-db 数据库",
+      "url": "https://github.com/xiaogege6697/nihaixia-perspective-skill",
+      "language": null,
+      "stars": 0,
+      "topics": [],
+      "updatedAt": "2026-08-27T18:37:49Z",
+      "category": "distill"
     },
     {
       "name": "xiaogege6697.github.io",
@@ -67,7 +77,7 @@ window.__PORTFOLIO_V2__ = {
         "personal-website",
         "portfolio"
       ],
-      "updatedAt": "2026-08-26T00:33:33Z",
+      "updatedAt": "2026-08-27T05:27:46Z",
       "category": "infra"
     },
     {
