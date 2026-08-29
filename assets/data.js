@@ -1,5 +1,5 @@
 window.__PORTFOLIO_V2__ = {
-  "generatedAt": "2026-08-28T07:21:47.351Z",
+  "generatedAt": "2026-08-29T04:32:55.839Z",
   "categories": [
     {
       "id": "core",
@@ -39,6 +39,38 @@ window.__PORTFOLIO_V2__ = {
   ],
   "repos": [
     {
+      "name": "cognitive-path-comic-content",
+      "description": "用视觉分镜控制用户认知路径：将复杂知识转化为5—8页、每页1—2格的连续漫画图文 Skill",
+      "url": "https://github.com/xiaogege6697/cognitive-path-comic-content",
+      "language": null,
+      "stars": 2,
+      "topics": [
+        "chinese",
+        "codex-skill",
+        "cognitive-design",
+        "content-creation",
+        "knowledge-comics",
+        "visual-storytelling"
+      ],
+      "updatedAt": "2026-08-29T02:07:19Z",
+      "category": "content"
+    },
+    {
+      "name": "xiaogege6697.github.io",
+      "description": "xiaogege6697 的个人 IP 网站：开源 AI 系统、长期记忆与知识蒸馏实践",
+      "url": "https://github.com/xiaogege6697/xiaogege6697.github.io",
+      "language": "JavaScript",
+      "stars": 1,
+      "topics": [
+        "ai-projects",
+        "github-pages",
+        "personal-website",
+        "portfolio"
+      ],
+      "updatedAt": "2026-08-28T07:22:31Z",
+      "category": "infra"
+    },
+    {
       "name": "tcm-db",
       "description": "倪海厦中医知识数据库 - 3,867条记录，涵盖中药/方剂/医案/经典/针灸/天纪",
       "url": "https://github.com/xiaogege6697/tcm-db",
@@ -66,21 +98,6 @@ window.__PORTFOLIO_V2__ = {
       "category": "distill"
     },
     {
-      "name": "xiaogege6697.github.io",
-      "description": "xiaogege6697 的个人 IP 网站：开源 AI 系统、长期记忆与知识蒸馏实践",
-      "url": "https://github.com/xiaogege6697/xiaogege6697.github.io",
-      "language": "JavaScript",
-      "stars": 1,
-      "topics": [
-        "ai-projects",
-        "github-pages",
-        "personal-website",
-        "portfolio"
-      ],
-      "updatedAt": "2026-08-27T05:27:46Z",
-      "category": "infra"
-    },
-    {
       "name": "dream-skill",
       "description": "Dream 工作流 skill：文件型记忆库的睡眠整理（巩固·关联·瘦身·清理·固化回路）",
       "url": "https://github.com/xiaogege6697/dream-skill",
@@ -99,23 +116,6 @@ window.__PORTFOLIO_V2__ = {
       ],
       "updatedAt": "2026-08-18T19:09:32Z",
       "category": "memory"
-    },
-    {
-      "name": "cognitive-path-comic-content",
-      "description": "用视觉分镜控制用户认知路径：将复杂知识转化为5—8页、每页1—2格的连续漫画图文 Skill",
-      "url": "https://github.com/xiaogege6697/cognitive-path-comic-content",
-      "language": null,
-      "stars": 2,
-      "topics": [
-        "chinese",
-        "codex-skill",
-        "cognitive-design",
-        "content-creation",
-        "knowledge-comics",
-        "visual-storytelling"
-      ],
-      "updatedAt": "2026-08-14T04:08:38Z",
-      "category": "content"
     },
     {
       "name": "minimal-skill",
