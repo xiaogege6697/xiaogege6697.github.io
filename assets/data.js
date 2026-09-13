@@ -1,5 +1,5 @@
 window.__PORTFOLIO_V2__ = {
-  "generatedAt": "2026-09-12T01:51:39.215Z",
+  "generatedAt": "2026-09-13T01:43:36.942Z",
   "categories": [
     {
       "id": "core",
@@ -39,6 +39,23 @@ window.__PORTFOLIO_V2__ = {
   ],
   "repos": [
     {
+      "name": "tcm-db",
+      "description": "倪海厦中医知识数据库 - 3,867条记录，涵盖中药/方剂/医案/经典/针灸/天纪",
+      "url": "https://github.com/xiaogege6697/tcm-db",
+      "language": "Python",
+      "stars": 8,
+      "topics": [
+        "api",
+        "chinese-medicine",
+        "knowledge-base",
+        "local-first",
+        "sqlite",
+        "traditional-chinese-medicine"
+      ],
+      "updatedAt": "2026-09-12T02:28:10Z",
+      "category": "knowledge"
+    },
+    {
       "name": "xiaogege6697.github.io",
       "description": "xiaogege6697 的个人 IP 网站：开源 AI 系统、长期记忆与知识蒸馏实践",
       "url": "https://github.com/xiaogege6697/xiaogege6697.github.io",
@@ -50,7 +67,7 @@ window.__PORTFOLIO_V2__ = {
         "personal-website",
         "portfolio"
       ],
-      "updatedAt": "2026-09-11T01:46:19Z",
+      "updatedAt": "2026-09-12T01:51:43Z",
       "category": "infra"
     },
     {
@@ -69,23 +86,6 @@ window.__PORTFOLIO_V2__ = {
       ],
       "updatedAt": "2026-08-29T02:07:19Z",
       "category": "content"
-    },
-    {
-      "name": "tcm-db",
-      "description": "倪海厦中医知识数据库 - 3,867条记录，涵盖中药/方剂/医案/经典/针灸/天纪",
-      "url": "https://github.com/xiaogege6697/tcm-db",
-      "language": "Python",
-      "stars": 7,
-      "topics": [
-        "api",
-        "chinese-medicine",
-        "knowledge-base",
-        "local-first",
-        "sqlite",
-        "traditional-chinese-medicine"
-      ],
-      "updatedAt": "2026-08-28T05:01:48Z",
-      "category": "knowledge"
     },
     {
       "name": "nihaixia-perspective-skill",
