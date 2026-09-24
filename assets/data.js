@@ -1,10 +1,10 @@
 window.__PORTFOLIO_V2__ = {
-  "generatedAt": "2026-09-23T02:07:08.010Z",
+  "generatedAt": "2026-09-24T01:54:32.364Z",
   "categories": [
     {
       "id": "core",
       "label": "项目守核",
-      "count": 3
+      "count": 2
     },
     {
       "id": "agent",
@@ -34,10 +34,30 @@ window.__PORTFOLIO_V2__ = {
     {
       "id": "infra",
       "label": "基础设施",
-      "count": 3
+      "count": 5
     }
   ],
   "repos": [
+    {
+      "name": "wechat-data-export-workflow",
+      "description": "微信数据导出实战 SOP：iPhone 备份、Zstd 字典解码、Mac 密钥获取与热读取，按场景选路，附 AI 执行说明与合成测试",
+      "url": "https://github.com/xiaogege6697/wechat-data-export-workflow",
+      "language": "Python",
+      "stars": 0,
+      "topics": [],
+      "updatedAt": "2026-09-23T10:07:02Z",
+      "category": "infra"
+    },
+    {
+      "name": "wechat-article-harvest-skill",
+      "description": "微信公众号全量历史文章批量采集工具链（Mac，mitmproxy 凭证镜像 + 翻页 + 正文抓取，含风控策略）| WeChat official account article harvester for macOS",
+      "url": "https://github.com/xiaogege6697/wechat-article-harvest-skill",
+      "language": "Python",
+      "stars": 0,
+      "topics": [],
+      "updatedAt": "2026-09-23T07:43:48Z",
+      "category": "infra"
+    },
     {
       "name": "xiaogege6697.github.io",
       "description": "xiaogege6697 的个人 IP 网站：开源 AI 系统、长期记忆与知识蒸馏实践",
@@ -50,7 +70,7 @@ window.__PORTFOLIO_V2__ = {
         "personal-website",
         "portfolio"
       ],
-      "updatedAt": "2026-09-22T02:07:55Z",
+      "updatedAt": "2026-09-23T02:07:13Z",
       "category": "infra"
     },
     {
@@ -271,27 +291,6 @@ window.__PORTFOLIO_V2__ = {
       ],
       "updatedAt": "2026-09-20T04:00:32Z",
       "category": "content"
-    },
-    {
-      "name": "codex-butler-relay",
-      "description": "异步跨模型 Goal Loop：Codex 规划验收，Claude 自主执行，10→20→40→80 分钟指数退避监测 | Event-driven cross-model goal loop: plan with Codex, execute with Claude, minimal coordination cost",
-      "url": "https://github.com/xiaogege6697/codex-butler-relay",
-      "language": "Python",
-      "stars": 0,
-      "topics": [
-        "agent-infrastructure",
-        "ai-agent",
-        "automation",
-        "claude",
-        "claude-code",
-        "codex",
-        "goal-loop",
-        "multi-agent",
-        "multi-model",
-        "workflow-automation"
-      ],
-      "updatedAt": "2026-09-20T04:00:29Z",
-      "category": "core"
     },
     {
       "name": "maintenance-capsule-skill",
