@@ -1,5 +1,5 @@
 window.__PORTFOLIO_V2__ = {
-  "generatedAt": "2026-09-24T01:54:32.364Z",
+  "generatedAt": "2026-09-25T02:11:22.663Z",
   "categories": [
     {
       "id": "core",
@@ -39,6 +39,21 @@ window.__PORTFOLIO_V2__ = {
   ],
   "repos": [
     {
+      "name": "xiaogege6697.github.io",
+      "description": "xiaogege6697 的个人 IP 网站：开源 AI 系统、长期记忆与知识蒸馏实践",
+      "url": "https://github.com/xiaogege6697/xiaogege6697.github.io",
+      "language": "JavaScript",
+      "stars": 1,
+      "topics": [
+        "ai-projects",
+        "github-pages",
+        "personal-website",
+        "portfolio"
+      ],
+      "updatedAt": "2026-09-24T01:54:36Z",
+      "category": "infra"
+    },
+    {
       "name": "wechat-data-export-workflow",
       "description": "微信数据导出实战 SOP：iPhone 备份、Zstd 字典解码、Mac 密钥获取与热读取，按场景选路，附 AI 执行说明与合成测试",
       "url": "https://github.com/xiaogege6697/wechat-data-export-workflow",
@@ -56,21 +71,6 @@ window.__PORTFOLIO_V2__ = {
       "stars": 0,
       "topics": [],
       "updatedAt": "2026-09-23T07:43:48Z",
-      "category": "infra"
-    },
-    {
-      "name": "xiaogege6697.github.io",
-      "description": "xiaogege6697 的个人 IP 网站：开源 AI 系统、长期记忆与知识蒸馏实践",
-      "url": "https://github.com/xiaogege6697/xiaogege6697.github.io",
-      "language": "JavaScript",
-      "stars": 1,
-      "topics": [
-        "ai-projects",
-        "github-pages",
-        "personal-website",
-        "portfolio"
-      ],
-      "updatedAt": "2026-09-23T02:07:13Z",
       "category": "infra"
     },
     {
