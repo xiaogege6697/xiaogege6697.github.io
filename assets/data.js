@@ -1,5 +1,5 @@
 window.__PORTFOLIO_V2__ = {
-  "generatedAt": "2026-10-08T03:16:55.536Z",
+  "generatedAt": "2026-10-09T03:22:38.622Z",
   "categories": [
     {
       "id": "core",
@@ -39,6 +39,21 @@ window.__PORTFOLIO_V2__ = {
   ],
   "repos": [
     {
+      "name": "xiaogege6697.github.io",
+      "description": "xiaogege6697 的个人 IP 网站：开源 AI 系统、长期记忆与知识蒸馏实践",
+      "url": "https://github.com/xiaogege6697/xiaogege6697.github.io",
+      "language": "JavaScript",
+      "stars": 1,
+      "topics": [
+        "ai-projects",
+        "github-pages",
+        "personal-website",
+        "portfolio"
+      ],
+      "updatedAt": "2026-10-08T03:17:01Z",
+      "category": "infra"
+    },
+    {
       "name": "metalslime-perspective-skill",
       "description": "知识蒸馏·投资认知：基于药神(metalslime)2019-2026全周期公开内容（2万帖+91万字碎碎念深读）的投资思维分身 Skill | Investment thinking lens distilled from 5 years of a Chinese cross-market investor's public posts — cycles, IRR discipline, supply-chain penetration, propagation-chain pricing",
       "url": "https://github.com/xiaogege6697/metalslime-perspective-skill",
@@ -65,21 +80,6 @@ window.__PORTFOLIO_V2__ = {
       ],
       "updatedAt": "2026-10-07T13:05:21Z",
       "category": "distill"
-    },
-    {
-      "name": "xiaogege6697.github.io",
-      "description": "xiaogege6697 的个人 IP 网站：开源 AI 系统、长期记忆与知识蒸馏实践",
-      "url": "https://github.com/xiaogege6697/xiaogege6697.github.io",
-      "language": "JavaScript",
-      "stars": 1,
-      "topics": [
-        "ai-projects",
-        "github-pages",
-        "personal-website",
-        "portfolio"
-      ],
-      "updatedAt": "2026-10-07T02:59:59Z",
-      "category": "infra"
     },
     {
       "name": "tcm-db",
