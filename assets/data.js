@@ -1,5 +1,5 @@
 window.__PORTFOLIO_V2__ = {
-  "generatedAt": "2026-10-10T03:02:27.628Z",
+  "generatedAt": "2026-10-11T02:33:05.898Z",
   "categories": [
     {
       "id": "core",
@@ -39,6 +39,44 @@ window.__PORTFOLIO_V2__ = {
   ],
   "repos": [
     {
+      "name": "tcm-db",
+      "description": "倪海厦中医知识数据库 - 3,867条记录，涵盖中药/方剂/医案/经典/针灸/天纪 | Ni Haixia TCM knowledge base: 3,867 structured SQLite records + 2,987 OCR lecture transcripts, RAG-ready",
+      "url": "https://github.com/xiaogege6697/tcm-db",
+      "language": "Python",
+      "stars": 13,
+      "topics": [
+        "api",
+        "chinese-medicine",
+        "knowledge-base",
+        "local-first",
+        "nihaixia",
+        "sqlite",
+        "tcm",
+        "traditional-chinese-medicine"
+      ],
+      "updatedAt": "2026-10-10T04:42:51Z",
+      "category": "knowledge"
+    },
+    {
+      "name": "nihaixia-perspective-skill",
+      "description": "倪海厦中医思维分身 Skill：三层架构（易理→医理转译→临床启发式）+ 原文页码级溯源，事实层对接 tcm-db 数据库 | Ni Haixia TCM-thinking persona skill: 3-layer Yi→medicine→clinical heuristics with page-level source anchors, for Claude/Codex/Cursor",
+      "url": "https://github.com/xiaogege6697/nihaixia-perspective-skill",
+      "language": null,
+      "stars": 1,
+      "topics": [
+        "ai-skill",
+        "chinese",
+        "claude-code",
+        "knowledge-distillation",
+        "nihaixia",
+        "persona-skill",
+        "tcm",
+        "traditional-chinese-medicine"
+      ],
+      "updatedAt": "2026-10-10T04:42:14Z",
+      "category": "distill"
+    },
+    {
       "name": "xiaogege6697.github.io",
       "description": "xiaogege6697 的个人 IP 网站：开源 AI 系统、长期记忆与知识蒸馏实践",
       "url": "https://github.com/xiaogege6697/xiaogege6697.github.io",
@@ -50,7 +88,7 @@ window.__PORTFOLIO_V2__ = {
         "personal-website",
         "portfolio"
       ],
-      "updatedAt": "2026-10-09T03:22:44Z",
+      "updatedAt": "2026-10-10T03:02:32Z",
       "category": "infra"
     },
     {
@@ -80,25 +118,6 @@ window.__PORTFOLIO_V2__ = {
       ],
       "updatedAt": "2026-10-07T13:05:21Z",
       "category": "distill"
-    },
-    {
-      "name": "tcm-db",
-      "description": "倪海厦中医知识数据库 - 3,867条记录，涵盖中药/方剂/医案/经典/针灸/天纪 | Ni Haixia TCM knowledge base: 3,867 structured SQLite records + 2,987 OCR lecture transcripts, RAG-ready",
-      "url": "https://github.com/xiaogege6697/tcm-db",
-      "language": "Python",
-      "stars": 12,
-      "topics": [
-        "api",
-        "chinese-medicine",
-        "knowledge-base",
-        "local-first",
-        "nihaixia",
-        "sqlite",
-        "tcm",
-        "traditional-chinese-medicine"
-      ],
-      "updatedAt": "2026-09-26T10:24:54Z",
-      "category": "knowledge"
     },
     {
       "name": "wechat-data-export-workflow",
@@ -401,25 +420,6 @@ window.__PORTFOLIO_V2__ = {
       ],
       "updatedAt": "2026-09-20T04:00:09Z",
       "category": "memory"
-    },
-    {
-      "name": "nihaixia-perspective-skill",
-      "description": "倪海厦中医思维分身 Skill：三层架构（易理→医理转译→临床启发式）+ 原文页码级溯源，事实层对接 tcm-db 数据库 | Ni Haixia TCM-thinking persona skill: 3-layer Yi→medicine→clinical heuristics with page-level source anchors, for Claude/Codex/Cursor",
-      "url": "https://github.com/xiaogege6697/nihaixia-perspective-skill",
-      "language": null,
-      "stars": 0,
-      "topics": [
-        "ai-skill",
-        "chinese",
-        "claude-code",
-        "knowledge-distillation",
-        "nihaixia",
-        "persona-skill",
-        "tcm",
-        "traditional-chinese-medicine"
-      ],
-      "updatedAt": "2026-09-20T04:00:05Z",
-      "category": "distill"
     },
     {
       "name": "xiaogege6697",
