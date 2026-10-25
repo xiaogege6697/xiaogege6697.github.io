@@ -1,5 +1,5 @@
 window.__PORTFOLIO_V2__ = {
-  "generatedAt": "2026-10-24T02:14:39.243Z",
+  "generatedAt": "2026-10-25T02:00:54.487Z",
   "categories": [
     {
       "id": "core",
@@ -39,6 +39,34 @@ window.__PORTFOLIO_V2__ = {
   ],
   "repos": [
     {
+      "name": "metalslime-perspective-skill",
+      "description": "知识蒸馏·投资认知：基于药神(metalslime)2019-2026全周期公开内容（2万帖+91万字碎碎念深读）的投资思维分身 Skill | Investment thinking lens distilled from 5 years of a Chinese cross-market investor's public posts — cycles, IRR discipline, supply-chain penetration, propagation-chain pricing",
+      "url": "https://github.com/xiaogege6697/metalslime-perspective-skill",
+      "language": null,
+      "stars": 2,
+      "topics": [
+        "agent-skill",
+        "ai-agent",
+        "china",
+        "claude-code",
+        "codex",
+        "cognitive-framework",
+        "investment",
+        "investment-research",
+        "knowledge-distillation",
+        "mental-models",
+        "openclaw",
+        "persona-skill",
+        "perspective-skill",
+        "skill",
+        "stock-market",
+        "value-investing",
+        "xueqiu"
+      ],
+      "updatedAt": "2026-10-24T16:31:12Z",
+      "category": "distill"
+    },
+    {
       "name": "xiaogege6697.github.io",
       "description": "xiaogege6697 的个人 IP 网站：开源 AI 系统、长期记忆与知识蒸馏实践",
       "url": "https://github.com/xiaogege6697/xiaogege6697.github.io",
@@ -50,7 +78,7 @@ window.__PORTFOLIO_V2__ = {
         "personal-website",
         "portfolio"
       ],
-      "updatedAt": "2026-10-23T02:16:37Z",
+      "updatedAt": "2026-10-24T02:14:43Z",
       "category": "infra"
     },
     {
@@ -89,34 +117,6 @@ window.__PORTFOLIO_V2__ = {
         "traditional-chinese-medicine"
       ],
       "updatedAt": "2026-10-10T04:42:14Z",
-      "category": "distill"
-    },
-    {
-      "name": "metalslime-perspective-skill",
-      "description": "知识蒸馏·投资认知：基于药神(metalslime)2019-2026全周期公开内容（2万帖+91万字碎碎念深读）的投资思维分身 Skill | Investment thinking lens distilled from 5 years of a Chinese cross-market investor's public posts — cycles, IRR discipline, supply-chain penetration, propagation-chain pricing",
-      "url": "https://github.com/xiaogege6697/metalslime-perspective-skill",
-      "language": null,
-      "stars": 1,
-      "topics": [
-        "agent-skill",
-        "ai-agent",
-        "china",
-        "claude-code",
-        "codex",
-        "cognitive-framework",
-        "investment",
-        "investment-research",
-        "knowledge-distillation",
-        "mental-models",
-        "openclaw",
-        "persona-skill",
-        "perspective-skill",
-        "skill",
-        "stock-market",
-        "value-investing",
-        "xueqiu"
-      ],
-      "updatedAt": "2026-10-07T13:05:21Z",
       "category": "distill"
     },
     {
