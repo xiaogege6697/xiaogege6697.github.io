@@ -1,5 +1,5 @@
 window.__PORTFOLIO_V2__ = {
-  "generatedAt": "2026-10-25T02:00:54.487Z",
+  "generatedAt": "2026-10-26T02:02:14.942Z",
   "categories": [
     {
       "id": "core",
@@ -39,6 +39,40 @@ window.__PORTFOLIO_V2__ = {
   ],
   "repos": [
     {
+      "name": "tcm-db",
+      "description": "倪海厦中医知识数据库 - 3,867条记录，涵盖中药/方剂/医案/经典/针灸/天纪 | Ni Haixia TCM knowledge base: 3,867 structured SQLite records + 2,987 OCR lecture transcripts, RAG-ready",
+      "url": "https://github.com/xiaogege6697/tcm-db",
+      "language": "Python",
+      "stars": 15,
+      "topics": [
+        "api",
+        "chinese-medicine",
+        "knowledge-base",
+        "local-first",
+        "nihaixia",
+        "sqlite",
+        "tcm",
+        "traditional-chinese-medicine"
+      ],
+      "updatedAt": "2026-10-25T17:47:16Z",
+      "category": "knowledge"
+    },
+    {
+      "name": "xiaogege6697.github.io",
+      "description": "xiaogege6697 的个人 IP 网站：开源 AI 系统、长期记忆与知识蒸馏实践",
+      "url": "https://github.com/xiaogege6697/xiaogege6697.github.io",
+      "language": "JavaScript",
+      "stars": 1,
+      "topics": [
+        "ai-projects",
+        "github-pages",
+        "personal-website",
+        "portfolio"
+      ],
+      "updatedAt": "2026-10-25T02:00:58Z",
+      "category": "infra"
+    },
+    {
       "name": "metalslime-perspective-skill",
       "description": "知识蒸馏·投资认知：基于药神(metalslime)2019-2026全周期公开内容（2万帖+91万字碎碎念深读）的投资思维分身 Skill | Investment thinking lens distilled from 5 years of a Chinese cross-market investor's public posts — cycles, IRR discipline, supply-chain penetration, propagation-chain pricing",
       "url": "https://github.com/xiaogege6697/metalslime-perspective-skill",
@@ -65,40 +99,6 @@ window.__PORTFOLIO_V2__ = {
       ],
       "updatedAt": "2026-10-24T16:31:12Z",
       "category": "distill"
-    },
-    {
-      "name": "xiaogege6697.github.io",
-      "description": "xiaogege6697 的个人 IP 网站：开源 AI 系统、长期记忆与知识蒸馏实践",
-      "url": "https://github.com/xiaogege6697/xiaogege6697.github.io",
-      "language": "JavaScript",
-      "stars": 1,
-      "topics": [
-        "ai-projects",
-        "github-pages",
-        "personal-website",
-        "portfolio"
-      ],
-      "updatedAt": "2026-10-24T02:14:43Z",
-      "category": "infra"
-    },
-    {
-      "name": "tcm-db",
-      "description": "倪海厦中医知识数据库 - 3,867条记录，涵盖中药/方剂/医案/经典/针灸/天纪 | Ni Haixia TCM knowledge base: 3,867 structured SQLite records + 2,987 OCR lecture transcripts, RAG-ready",
-      "url": "https://github.com/xiaogege6697/tcm-db",
-      "language": "Python",
-      "stars": 14,
-      "topics": [
-        "api",
-        "chinese-medicine",
-        "knowledge-base",
-        "local-first",
-        "nihaixia",
-        "sqlite",
-        "tcm",
-        "traditional-chinese-medicine"
-      ],
-      "updatedAt": "2026-10-12T16:08:50Z",
-      "category": "knowledge"
     },
     {
       "name": "nihaixia-perspective-skill",
