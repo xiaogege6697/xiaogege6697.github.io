@@ -1,5 +1,5 @@
 window.__PORTFOLIO_V2__ = {
-  "generatedAt": "2026-10-28T02:48:36.189Z",
+  "generatedAt": "2026-10-29T03:10:34.722Z",
   "categories": [
     {
       "id": "core",
@@ -34,10 +34,20 @@ window.__PORTFOLIO_V2__ = {
     {
       "id": "infra",
       "label": "基础设施",
-      "count": 5
+      "count": 6
     }
   ],
   "repos": [
+    {
+      "name": "sharepad-zh",
+      "description": "SharePad 非官方 GPLv3 中文改进版：通过 USB 将 iPad 画面显示在 Mac 独立窗口，附完整源码与安装包。",
+      "url": "https://github.com/xiaogege6697/sharepad-zh",
+      "language": "Swift",
+      "stars": 0,
+      "topics": [],
+      "updatedAt": "2026-10-28T05:35:29Z",
+      "category": "infra"
+    },
     {
       "name": "xiaogege6697.github.io",
       "description": "xiaogege6697 的个人 IP 网站：开源 AI 系统、长期记忆与知识蒸馏实践",
@@ -50,7 +60,7 @@ window.__PORTFOLIO_V2__ = {
         "personal-website",
         "portfolio"
       ],
-      "updatedAt": "2026-10-27T02:39:47Z",
+      "updatedAt": "2026-10-28T02:48:41Z",
       "category": "infra"
     },
     {
