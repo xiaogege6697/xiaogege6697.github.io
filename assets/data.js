@@ -1,5 +1,5 @@
 window.__PORTFOLIO_V2__ = {
-  "generatedAt": "2026-10-31T02:58:30.128Z",
+  "generatedAt": "2026-11-01T02:53:23.822Z",
   "categories": [
     {
       "id": "core",
@@ -50,7 +50,7 @@ window.__PORTFOLIO_V2__ = {
         "personal-website",
         "portfolio"
       ],
-      "updatedAt": "2026-10-30T03:14:04Z",
+      "updatedAt": "2026-10-31T02:58:34Z",
       "category": "infra"
     },
     {
