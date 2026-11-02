@@ -1,5 +1,5 @@
 window.__PORTFOLIO_V2__ = {
-  "generatedAt": "2026-11-01T02:53:23.822Z",
+  "generatedAt": "2026-11-02T03:00:08.025Z",
   "categories": [
     {
       "id": "core",
@@ -39,6 +39,25 @@ window.__PORTFOLIO_V2__ = {
   ],
   "repos": [
     {
+      "name": "nihaixia-perspective-skill",
+      "description": "倪海厦中医思维分身 Skill：三层架构（易理→医理转译→临床启发式）+ 原文页码级溯源，事实层对接 tcm-db 数据库 | Ni Haixia TCM-thinking persona skill: 3-layer Yi→medicine→clinical heuristics with page-level source anchors, for Claude/Codex/Cursor",
+      "url": "https://github.com/xiaogege6697/nihaixia-perspective-skill",
+      "language": null,
+      "stars": 2,
+      "topics": [
+        "ai-skill",
+        "chinese",
+        "claude-code",
+        "knowledge-distillation",
+        "nihaixia",
+        "persona-skill",
+        "tcm",
+        "traditional-chinese-medicine"
+      ],
+      "updatedAt": "2026-11-02T02:03:33Z",
+      "category": "distill"
+    },
+    {
       "name": "xiaogege6697.github.io",
       "description": "xiaogege6697 的个人 IP 网站：开源 AI 系统、长期记忆与知识蒸馏实践",
       "url": "https://github.com/xiaogege6697/xiaogege6697.github.io",
@@ -50,7 +69,7 @@ window.__PORTFOLIO_V2__ = {
         "personal-website",
         "portfolio"
       ],
-      "updatedAt": "2026-10-31T02:58:34Z",
+      "updatedAt": "2026-11-01T02:53:28Z",
       "category": "infra"
     },
     {
@@ -108,25 +127,6 @@ window.__PORTFOLIO_V2__ = {
         "xueqiu"
       ],
       "updatedAt": "2026-10-24T16:31:12Z",
-      "category": "distill"
-    },
-    {
-      "name": "nihaixia-perspective-skill",
-      "description": "倪海厦中医思维分身 Skill：三层架构（易理→医理转译→临床启发式）+ 原文页码级溯源，事实层对接 tcm-db 数据库 | Ni Haixia TCM-thinking persona skill: 3-layer Yi→medicine→clinical heuristics with page-level source anchors, for Claude/Codex/Cursor",
-      "url": "https://github.com/xiaogege6697/nihaixia-perspective-skill",
-      "language": null,
-      "stars": 1,
-      "topics": [
-        "ai-skill",
-        "chinese",
-        "claude-code",
-        "knowledge-distillation",
-        "nihaixia",
-        "persona-skill",
-        "tcm",
-        "traditional-chinese-medicine"
-      ],
-      "updatedAt": "2026-10-10T04:42:14Z",
       "category": "distill"
     },
     {
