@@ -1,5 +1,5 @@
 window.__PORTFOLIO_V2__ = {
-  "generatedAt": "2026-11-02T03:00:08.025Z",
+  "generatedAt": "2026-11-03T04:18:43.977Z",
   "categories": [
     {
       "id": "core",
@@ -39,6 +39,21 @@ window.__PORTFOLIO_V2__ = {
   ],
   "repos": [
     {
+      "name": "xiaogege6697.github.io",
+      "description": "xiaogege6697 的个人 IP 网站：开源 AI 系统、长期记忆与知识蒸馏实践",
+      "url": "https://github.com/xiaogege6697/xiaogege6697.github.io",
+      "language": "JavaScript",
+      "stars": 1,
+      "topics": [
+        "ai-projects",
+        "github-pages",
+        "personal-website",
+        "portfolio"
+      ],
+      "updatedAt": "2026-11-02T03:00:13Z",
+      "category": "infra"
+    },
+    {
       "name": "nihaixia-perspective-skill",
       "description": "倪海厦中医思维分身 Skill：三层架构（易理→医理转译→临床启发式）+ 原文页码级溯源，事实层对接 tcm-db 数据库 | Ni Haixia TCM-thinking persona skill: 3-layer Yi→medicine→clinical heuristics with page-level source anchors, for Claude/Codex/Cursor",
       "url": "https://github.com/xiaogege6697/nihaixia-perspective-skill",
@@ -56,21 +71,6 @@ window.__PORTFOLIO_V2__ = {
       ],
       "updatedAt": "2026-11-02T02:03:33Z",
       "category": "distill"
-    },
-    {
-      "name": "xiaogege6697.github.io",
-      "description": "xiaogege6697 的个人 IP 网站：开源 AI 系统、长期记忆与知识蒸馏实践",
-      "url": "https://github.com/xiaogege6697/xiaogege6697.github.io",
-      "language": "JavaScript",
-      "stars": 1,
-      "topics": [
-        "ai-projects",
-        "github-pages",
-        "personal-website",
-        "portfolio"
-      ],
-      "updatedAt": "2026-11-01T02:53:28Z",
-      "category": "infra"
     },
     {
       "name": "sharepad-zh",
