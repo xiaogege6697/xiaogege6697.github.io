@@ -1,5 +1,5 @@
 window.__PORTFOLIO_V2__ = {
-  "generatedAt": "2026-11-05T03:57:10.507Z",
+  "generatedAt": "2026-11-06T03:55:26.817Z",
   "categories": [
     {
       "id": "core",
@@ -34,10 +34,48 @@ window.__PORTFOLIO_V2__ = {
     {
       "id": "infra",
       "label": "基础设施",
-      "count": 6
+      "count": 7
     }
   ],
   "repos": [
+    {
+      "name": "metalslime-perspective-skill",
+      "description": "知识蒸馏·投资认知：基于药神(metalslime)2019-2026全周期公开内容（2万帖+91万字碎碎念深读）的投资思维分身 Skill | Investment thinking lens distilled from 5 years of a Chinese cross-market investor's public posts — cycles, IRR discipline, supply-chain penetration, propagation-chain pricing",
+      "url": "https://github.com/xiaogege6697/metalslime-perspective-skill",
+      "language": null,
+      "stars": 3,
+      "topics": [
+        "agent-skill",
+        "ai-agent",
+        "china",
+        "claude-code",
+        "codex",
+        "cognitive-framework",
+        "investment",
+        "investment-research",
+        "knowledge-distillation",
+        "mental-models",
+        "openclaw",
+        "persona-skill",
+        "perspective-skill",
+        "skill",
+        "stock-market",
+        "value-investing",
+        "xueqiu"
+      ],
+      "updatedAt": "2026-11-06T03:05:32Z",
+      "category": "distill"
+    },
+    {
+      "name": "investor-pitch",
+      "description": "FA 投资人推流 + 全网查证建档 WorkBuddy Skill：陌生名单分类建档、四表落档、Excel详情表+HTML图表汇报",
+      "url": "https://github.com/xiaogege6697/investor-pitch",
+      "language": "Python",
+      "stars": 0,
+      "topics": [],
+      "updatedAt": "2026-11-06T03:01:11Z",
+      "category": "infra"
+    },
     {
       "name": "xiaogege6697.github.io",
       "description": "xiaogege6697 的个人 IP 网站：开源 AI 系统、长期记忆与知识蒸馏实践",
@@ -50,7 +88,7 @@ window.__PORTFOLIO_V2__ = {
         "personal-website",
         "portfolio"
       ],
-      "updatedAt": "2026-11-04T03:38:14Z",
+      "updatedAt": "2026-11-05T03:57:15Z",
       "category": "infra"
     },
     {
@@ -100,34 +138,6 @@ window.__PORTFOLIO_V2__ = {
       "topics": [],
       "updatedAt": "2026-10-28T05:35:29Z",
       "category": "infra"
-    },
-    {
-      "name": "metalslime-perspective-skill",
-      "description": "知识蒸馏·投资认知：基于药神(metalslime)2019-2026全周期公开内容（2万帖+91万字碎碎念深读）的投资思维分身 Skill | Investment thinking lens distilled from 5 years of a Chinese cross-market investor's public posts — cycles, IRR discipline, supply-chain penetration, propagation-chain pricing",
-      "url": "https://github.com/xiaogege6697/metalslime-perspective-skill",
-      "language": null,
-      "stars": 2,
-      "topics": [
-        "agent-skill",
-        "ai-agent",
-        "china",
-        "claude-code",
-        "codex",
-        "cognitive-framework",
-        "investment",
-        "investment-research",
-        "knowledge-distillation",
-        "mental-models",
-        "openclaw",
-        "persona-skill",
-        "perspective-skill",
-        "skill",
-        "stock-market",
-        "value-investing",
-        "xueqiu"
-      ],
-      "updatedAt": "2026-10-24T16:31:12Z",
-      "category": "distill"
     },
     {
       "name": "wechat-data-export-workflow",
