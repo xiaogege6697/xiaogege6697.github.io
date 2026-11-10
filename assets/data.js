@@ -1,5 +1,5 @@
 window.__PORTFOLIO_V2__ = {
-  "generatedAt": "2026-11-09T03:20:40.517Z",
+  "generatedAt": "2026-11-10T04:57:55.043Z",
   "categories": [
     {
       "id": "core",
@@ -39,6 +39,21 @@ window.__PORTFOLIO_V2__ = {
   ],
   "repos": [
     {
+      "name": "xiaogege6697.github.io",
+      "description": "xiaogege6697 的个人 IP 网站：开源 AI 系统、长期记忆与知识蒸馏实践",
+      "url": "https://github.com/xiaogege6697/xiaogege6697.github.io",
+      "language": "JavaScript",
+      "stars": 1,
+      "topics": [
+        "ai-projects",
+        "github-pages",
+        "personal-website",
+        "portfolio"
+      ],
+      "updatedAt": "2026-11-09T03:20:45Z",
+      "category": "infra"
+    },
+    {
       "name": "tcm-db",
       "description": "倪海厦中医知识数据库 - 3,867条记录，涵盖中药/方剂/医案/经典/针灸/天纪 | Ni Haixia TCM knowledge base: 3,867 structured SQLite records + 2,987 OCR lecture transcripts, RAG-ready",
       "url": "https://github.com/xiaogege6697/tcm-db",
@@ -56,21 +71,6 @@ window.__PORTFOLIO_V2__ = {
       ],
       "updatedAt": "2026-11-08T11:37:30Z",
       "category": "knowledge"
-    },
-    {
-      "name": "xiaogege6697.github.io",
-      "description": "xiaogege6697 的个人 IP 网站：开源 AI 系统、长期记忆与知识蒸馏实践",
-      "url": "https://github.com/xiaogege6697/xiaogege6697.github.io",
-      "language": "JavaScript",
-      "stars": 1,
-      "topics": [
-        "ai-projects",
-        "github-pages",
-        "personal-website",
-        "portfolio"
-      ],
-      "updatedAt": "2026-11-08T02:58:30Z",
-      "category": "infra"
     },
     {
       "name": "metalslime-perspective-skill",
