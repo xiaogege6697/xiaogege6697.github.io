@@ -1,5 +1,5 @@
 window.__PORTFOLIO_V2__ = {
-  "generatedAt": "2026-11-12T04:38:41.181Z",
+  "generatedAt": "2026-11-13T03:51:24.233Z",
   "categories": [
     {
       "id": "core",
@@ -43,7 +43,7 @@ window.__PORTFOLIO_V2__ = {
       "description": "倪海厦中医知识数据库 - 3,867条记录，涵盖中药/方剂/医案/经典/针灸/天纪 | Ni Haixia TCM knowledge base: 3,867 structured SQLite records + 2,987 OCR lecture transcripts, RAG-ready",
       "url": "https://github.com/xiaogege6697/tcm-db",
       "language": "Python",
-      "stars": 19,
+      "stars": 20,
       "topics": [
         "api",
         "chinese-medicine",
@@ -54,7 +54,7 @@ window.__PORTFOLIO_V2__ = {
         "tcm",
         "traditional-chinese-medicine"
       ],
-      "updatedAt": "2026-11-11T09:48:53Z",
+      "updatedAt": "2026-11-12T08:45:25Z",
       "category": "knowledge"
     },
     {
@@ -69,7 +69,7 @@ window.__PORTFOLIO_V2__ = {
         "personal-website",
         "portfolio"
       ],
-      "updatedAt": "2026-11-11T04:29:02Z",
+      "updatedAt": "2026-11-12T05:38:45Z",
       "category": "infra"
     },
     {
