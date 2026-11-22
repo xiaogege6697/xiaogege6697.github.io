@@ -1,5 +1,5 @@
 window.__PORTFOLIO_V2__ = {
-  "generatedAt": "2026-11-21T04:32:23.294Z",
+  "generatedAt": "2026-11-22T03:47:14.367Z",
   "categories": [
     {
       "id": "core",
